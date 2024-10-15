@@ -59,8 +59,11 @@ I am an IT Engineering student at the Royal University of Phnom Penh. I have a s
 - Developed a news app connected to NewsAPI.org for instant and reliable updates.
 
 ## 📞 Contact Me
-- Email: [houng.lymeng.2821@rupp.edu.kh]
-- LinkedIn: [[linkedin.com/in/hounglymeng](https://www.linkedin.com/in/houng-lymeng168/)]
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:houng.lymeng.2821@rupp.edu.kh)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houng-lymeng168/)
+- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hounglymeng168)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://hounglymeng10.github.io/Portfolio/)
+
 
 ## 📝 Resume
 For a detailed look at my professional journey, you can download my [Resume]([link_to_your_resume_here](https://hounglymeng10.github.io/Portfolio/)).
