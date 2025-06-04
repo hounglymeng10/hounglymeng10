@@ -1,7 +1,7 @@
 # Houng Lymeng
 
 ## 💼 About Me
-I am an IT Engineering student at the Royal University of Phnom Penh. I have a solid understanding of programming languages and software development. I have worked on web and mobile app projects for my lectures, and I am always looking to improve my skills in digital marketing and project management.
+Hi, I’m Houng Lymeng. I am an IT Engineering student at the Royal University of Phnom Penh. I have a solid understanding of programming languages and software development. I have worked on web and mobile app projects for my lectures, and I am always looking to improve my skills in digital marketing and project management.
 
 ## 🛠️ Languages and Tools
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
