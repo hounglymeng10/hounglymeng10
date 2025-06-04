@@ -22,7 +22,6 @@ I like using technology and online marketing to help businesses grow and solve p
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 ![Meta](https://img.shields.io/badge/-Meta-0078FF?style=flat-square&logo=meta&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-2563EB?style=flat-square&logo=microsoft-office&logoColor=white)
@@ -32,7 +31,6 @@ I like using technology and online marketing to help businesses grow and solve p
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
