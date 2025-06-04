@@ -9,7 +9,6 @@ I like using technology and online marketing to help businesses grow and solve p
 *   🌍 I'm based in Phnom Penh, Cambodia.
 *   💼 [Portfolio](https://mexxtenn.my.canva.site/portfolio-v2026)
 *   📧 Email: Hounglymeng160923@gmail.com
-*   🔗 [LinkedIn](https://www.linkedin.com/in/houng-lymeng168/)
 
 ---
 
